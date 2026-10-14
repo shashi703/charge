@@ -1,5 +1,4 @@
-```jsx
-import { useEffect, useState } from 'react'
+﻿import { useEffect, useState } from 'react'
 import './App.css'
 
 import Login from './Login'
@@ -142,23 +141,23 @@ function App() {
           </div>
 
           <div className="hero-card">
-            <div className="card-icon">🏪</div>
+            <div className="card-icon">ðŸª</div>
             <h2>Nearby Shops</h2>
             <p>Check availability before you visit.</p>
 
             <div className="shop-preview">
-              <span>🟢</span>
+              <span>ðŸŸ¢</span>
               <div>
                 <strong>Local Shop</strong>
-                <small>Open • Stock available</small>
+                <small>Open â€¢ Stock available</small>
               </div>
             </div>
 
             <div className="shop-preview">
-              <span>🟢</span>
+              <span>ðŸŸ¢</span>
               <div>
                 <strong>Nearby Store</strong>
-                <small>Open • Stock available</small>
+                <small>Open â€¢ Stock available</small>
               </div>
             </div>
           </div>
@@ -176,19 +175,19 @@ function App() {
 
           <div className="feature-grid">
             <div className="feature-card">
-              <div>📍</div>
+              <div>ðŸ“</div>
               <h3>Find Shops</h3>
               <p>Discover registered shops near your location.</p>
             </div>
 
             <div className="feature-card">
-              <div>📦</div>
+              <div>ðŸ“¦</div>
               <h3>Check Stock</h3>
               <p>See what products are currently available.</p>
             </div>
 
             <div className="feature-card">
-              <div>🛒</div>
+              <div>ðŸ›’</div>
               <h3>Order or Reserve</h3>
               <p>
                 Add products to your cart or reserve them for pickup.
@@ -196,7 +195,7 @@ function App() {
             </div>
 
             <div className="feature-card">
-              <div>🚚</div>
+              <div>ðŸšš</div>
               <h3>Pickup or Delivery</h3>
               <p>
                 Choose pickup or available local delivery.
@@ -216,11 +215,10 @@ function App() {
       </main>
 
       <footer>
-        <p>© 2026 PanShopApp. All rights reserved.</p>
+        <p>Â© 2026 PanShopApp. All rights reserved.</p>
       </footer>
     </div>
   )
 }
 
 export default App
-```
